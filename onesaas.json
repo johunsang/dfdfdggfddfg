@@ -1,40 +1,24 @@
 {
   "$schema": "https://onesaas.kr/schema/onesaas.json",
-  "schemaVersion": "1.1.0",
+  "schemaVersion": "1.0.0",
   "project": {
-    "id": "onesaas",
-    "name": "onesaas",
-    "slug": "onesaas",
-    "createdAt": "2026-01-06T01:16:01.865Z",
-    "updatedAt": "2026-01-06T12:00:00.000Z",
+    "id": "dfdfdggfddfg",
+    "name": "dfdfdggfddfg",
+    "slug": "dfdfdggfddfg",
+    "company": "sfsffsd",
+    "companyEn": "sfsffsd",
+    "email": "support@dfdfdggfddfg.com",
+    "createdAt": "2026-01-07T16:40:56.456Z",
     "generatedBy": "onesaas-wizard"
   },
   "template": {
     "id": "basic",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "source": "https://github.com/johunsang/onesass-starter"
   },
-  "landingTemplates": {
-    "available": [
-      "saas",
-      "startup",
-      "real-estate",
-      "education",
-      "fitness",
-      "restaurant",
-      "healthcare",
-      "travel",
-      "finance",
-      "agency",
-      "ecommerce",
-      "event"
-    ],
-    "active": "saas"
-  },
   "theme": {
-    "id": "neon",
-    "mode": "dark",
-    "appliedAt": "2026-01-06T01:16:01.865Z"
+    "id": "retrowave",
+    "appliedAt": "2026-01-07T16:40:56.456Z"
   },
   "features": {
     "auth": {
@@ -61,17 +45,7 @@
       ]
     },
     "vercel": {
-      "options": [
-        "ai-gateway",
-        "blob",
-        "postgres",
-        "kv"
-      ]
-    },
-    "ui": {
-      "componentsCount": 400,
-      "themesCount": 10,
-      "landingTemplatesCount": 12
+      "options": []
     }
   },
   "environment": {
